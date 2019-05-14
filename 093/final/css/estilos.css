@@ -1,3 +1,7 @@
 body{
     position:relative;
 }
+
+a.nav-link.active{
+    color:#007bff !important;
+}
